@@ -2,7 +2,7 @@
 
 <h2 align="center"> Fall 2021 </h2>
 
-<h3 align="center"> Contributers: Michael Sherlock, Ben LaForge </h3>
+<h3 align="center"> Contributers: Michael Sherlock, Ben Laforge </h3>
 
 
 ### **Data Structure: Sparse Matrix**
@@ -157,6 +157,8 @@ commands that work in main driver file (LlL.cpp):
 ### **How to Compile and Run**
 
 This project does not use a GUI, instead it relies on command line arguments for input and will spit out .txt files as an output.  Download the project, create a .txt file containing the sparse matrices you are using into the SpMfile directory.  Now just update the main functions of COO.cpp and LlL.cpp to take in however many CLAs you want and what you want the to do with the lists that are created.  
+
+---
 
 ### **Contribution**
 
